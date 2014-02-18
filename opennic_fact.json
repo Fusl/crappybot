@@ -1,0 +1,70 @@
+{            
+    "reports": {
+        "facttext": "http://www.opennicproject.org/report/",
+        "factauthor": "Fusl"
+    },
+    "report": {
+        "facttext": "http://www.opennicproject.org/report/",
+        "factauthor": "Fusl"
+    },
+    "t2check": {
+        "facttext": "http://www.opennicproject.org/t2log/test.php",
+        "factauthor": "Fusl"
+    },
+    "t2test": {
+        "facttext": "http://www.opennicproject.org/t2log/test.php",
+        "factauthor": "Fusl"
+    },
+    "t1check": {
+        "facttext": "http://www.opennicproject.org/t2log/test.php",
+        "factauthor": "Fusl"
+    },
+    "t1test": {
+        "facttext": "http://www.opennicproject.org/t2log/test.php",
+        "factauthor": "Fusl"
+    },   
+    "check": {
+        "facttext": "http://www.opennicproject.org/t2log/test.php",
+        "factauthor": "Fusl"
+    },
+    "test": {
+        "facttext": "http://www.opennicproject.org/t2log/test.php",
+        "factauthor": "Fusl"
+    },
+    "newt2op": {
+        "facttext": "You need a wiki account to be able to create a new Tier2 entry in the wiki. Please drop brianko (brian AT opennicproject DOT org) a mail and ask for a new wiki-account (he's lurking around here too, maybe he's online atm?). After receiving your login details, log into the wiki and click the \"Create new server\" button here: http://wiki.opennicproject.org/Tier2",
+        "factauthor": "Fusl"
+    },
+    "setupt2": {
+        "facttext": "http://wiki.opennicproject.org/Tier2ServerConfig",
+        "factauthor": "Fusl"
+    },
+    "t2setup": {
+        "facttext": "http://wiki.opennicproject.org/Tier2ServerConfig",
+        "factauthor": "Fusl"
+    },
+    "configt2": {
+        "facttext": "http://wiki.opennicproject.org/Tier2ServerConfig",
+        "factauthor": "Fusl"
+    },
+    "t2config": {
+        "facttext": "http://wiki.opennicproject.org/Tier2ServerConfig",
+        "factauthor": "Fusl"
+    },
+    "t2filtering": {
+        "facttext": "No corporation should say what websites should or shouldn’t be available to us, or the speed in which they load. By using OpenNIC you no longer have to question your ISPs motives, and can rest assured that your connection to the Internet is not being censored by your DNS server.\n'Filtering only the bad/evil domains/ips' is also known as censorship!",
+        "factauthor": "Fusl"
+    },
+    "t2list": {
+        "facttext": "http://wiki.opennicproject.org/Tier2",
+        "factauthor": "Fusl"
+    },
+    "unblock": {
+        "facttext": "Using a different DNS server cannot unblock sites for you if the people running them only allow visitors from certain countries!",
+        "factauthor": "wood_quinn"
+    },
+    "map": {
+        "facttext": "http://www.opennicproject.org/report/log_.php?display=3",
+        "factauthor": "Fusl"
+    }
+}
